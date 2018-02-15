@@ -1,6 +1,6 @@
 # Abbey Park High School Programming Club
 
-Welcome to Programming Club! Below is some basic information about programming and details on how to use this repository/
+Welcome to Programming Club! Below is some basic information about programming and details on how to use this repository.
 
 What is Programming?
 
