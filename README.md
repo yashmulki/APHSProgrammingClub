@@ -1,5 +1,7 @@
 # Abbey Park High School Programming Club
 
-How do I use this page?
+Hi! This repository stores all the code samples we use at programming club for instruction. It also contains detailed comments on what the code examples are doing.
 
-For all the lessons we teach at programming club, examples of the code are available here. Simple navigate through the folders at the top of this page to find the code you want.
+How do I use this repository?
+
+Click on the folder for the programming language you are using, click code samples and browse the files there.
