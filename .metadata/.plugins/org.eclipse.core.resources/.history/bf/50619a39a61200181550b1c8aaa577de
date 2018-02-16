@@ -1,0 +1,15 @@
+package aphs.programmingclub.examples;
+
+public class PrintStrings {
+
+	public static void main(String[] args) {
+		
+			//This is a Print Line, used to output text to the console, down below
+			
+			System.out.println("Hello World!");
+			
+			System.out.print("Abbey Park High School");
+			System.out.print(" Is The Best!");
+	}
+
+}
