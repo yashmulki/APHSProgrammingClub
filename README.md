@@ -17,3 +17,7 @@ The Canadian Computing Contest is an annual computer programming contest held in
 So how does programming work?
 
 When you want to tell a computer how to do something, you can’t say it in English-computers can’t understand it. Instead, you write the instructions in a programming language. There are a multitude of programming languages, all with different features and use cases. For the purposes of this club, we’ll be using C++, one of the most ubiquitous languages around.
+
+How do I use this page?
+
+For all the lessons we teach at programming club, examples of the code are available here. Simple navigate through the folders at the top of this page to find the code you want.
