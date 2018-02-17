@@ -7,3 +7,5 @@ How do I use this repository?
 ## For Java 
 Download this repository and open the Java workspace when Eclipse is starting up
 
+## CCC Solutions
+To access CCC solutions please go to https://github.com/yashmulki/CCCSolutions
