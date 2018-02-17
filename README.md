@@ -4,4 +4,6 @@ Hi! This repository stores all the code samples we use at programming club for i
 
 How do I use this repository?
 
-Click on the folder for the programming language you are using, click code samples and browse the files there.
+## For Java 
+Download this repository and open the Java workspace when Eclipse is starting up
+
