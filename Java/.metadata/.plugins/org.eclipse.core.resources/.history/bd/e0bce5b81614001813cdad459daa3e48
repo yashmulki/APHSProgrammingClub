@@ -1,0 +1,12 @@
+import java.util.Scanner;
+
+public class ControlFlowAndLoops {
+
+	public static void main(String[] args) {
+		
+		// Let's say that we take in a user input
+		Scanner myScanner = new Scanner(System.in)
+		
+	}
+	
+}
