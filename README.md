@@ -5,7 +5,7 @@ Hi! This repository stores all the code samples we use at programming club for i
 How do I use this repository?
 
 ## For Java 
-Download this repository and open the Java workspace when Eclipse is starting up
+Checkout the java branch and open the workspace
 
 ## CCC Solutions
 To access CCC solutions please go to https://github.com/yashmulki/CCCSolutions
