@@ -21,7 +21,7 @@ Now this works perfectly if you just want to add numbers, but what if you wanted
 
 A method is a reusable block of code. You can "call" a method to use the code contained within it and you can pass in "parameters" (values that the function can operate upon). Here's an example that allows you to add two numbers.
 
-````java 
+```java 
 public static int addNumbers(int number1, int number2) {
     return number1 + number2
 }
@@ -33,11 +33,26 @@ public static void main(String args[]) {
     int result = addNumbers(num1, num2);
     System.out.println(result);
 }
-````
+```
 
 Let's break that down. On the new function, you can see 
 `public static int`. Ignore public and static for now, but int means that the function "returns" an integer. Inside the brackets, you can see two variables `int number1` and `int number2`. What this means is that the function takes in two integers as its input and uses it to generate the output.
 
 In general, the syntax for a function is:
-`public static [type] [name]([variable type][variable name]) { }`
+`public static [return type] [name]([variable type][variable name]) { }`
 
+Methods can have the return type `void`, which means that they don't have to return anything, like the main method. `void` simply means nothing in java. You can also have a method that doesn't have any parameters, like the one below:
+
+```java
+public static void myFunction() {
+    // Do Something
+}
+```
+
+## Understanding what `public` means
+
+The public keyword in a method simply means that other `classes` (in other code files) can access it. You don't have to bother with what exactly a class is right now, but just leave all your methods public for now.
+
+## When to use methods
+
+In competitive programming, as well as software development, you'll often encounter situations where you have to call the same (or nearly the same code) repeatedly. Rather than copying, pasting and editing code, which is messy and error prone, use methods to create reusable code.
