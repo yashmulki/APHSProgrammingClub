@@ -23,7 +23,7 @@ A method is a reusable block of code. You can "call" a method to use the code co
 
 ```java 
 public static int addNumbers(int number1, int number2) {
-    return number1 + number2
+    return number1 + number2;
 }
 
 public static void main(String args[]) {
