@@ -19,13 +19,13 @@ These are:
 A string is just sequence of characters. We often use then to make workds of words or sentences.
 These are always in qotation marks. For example:
 ````java
-String s = "hello world!";
+String str = "hello world!";
 ````
 ---
 ## Variables
 A variable is a value which we are able to change. We can can have a variable for every datatype
 
-You declare a variable by forst stating the data type then a name and then the value
+You declare a variable by first stating the data type then a name and then the value
 Ex.
 ````java
 int i;
@@ -33,10 +33,7 @@ i = 5;
 //or, put it together
 int i = 5;
 ````
-Special cases
-````java
-float i = 5f;
-````
+
 ---
 ## Constants
 
@@ -51,7 +48,6 @@ In java you declare constansts by essentially declaring a final variable.
 ````java
 final char a = a;
 final int i = 1;
-final float f = 3.6f;
 final double d = 3.45;
 ````
-We do this because java  does not officially support constants. Instead we declare final variables, as final variables cannot be changes, making them in essence constants.
+We do this because java  does not officially support constants. Instead we declare final variables, as final variables cannot be changes, making them in constants.
