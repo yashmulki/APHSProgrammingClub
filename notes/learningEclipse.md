@@ -45,4 +45,4 @@ Bytecode: bytecode is the type of file that the computer can use to run the code
 5. Next, we're going to click on our project and create a new 'class.' Make sure to check the exact same boxes as we did.then double click on the class to open it in the editor.
 6. Now we're ready to write our first java program!
 
-    ![](resources/classmade.jpg)
+    ![](https://github.com/yashmulki/APHSProgrammingClub/blob/master/notes/resources/classmade.JPG?raw=true)
