@@ -22,19 +22,19 @@ Bytecode: bytecode is the type of file that the computer can use to run the code
 
 - The navigator: The panel on the left is the navigator. It allows you to open different files in order to view and modify them.
 
-    ![](resources/navigator.jpg)
+    ![](https://github.com/yashmulki/APHSProgrammingClub/blob/master/notes/resources/navigator.JPG?raw=true)
 
 - The text editor: This is the panel in the center, which allows you to actually view and edit the files you open in the navigator. This is the main feature, and the one you will be using most often in eclipse. 
 
-    ![](resources/finishSetUp.jpg)
+    ![](https://github.com/yashmulki/APHSProgrammingClub/blob/master/notes/resources/finishSetUp.JPG?raw=true)
 
 - the console: The console is the one of the tabs on the bottom panels. It doesn't appear by default, however. As soon as you run Java code that has an output, it will appear. The console window is the output window. If for example, your program outputs the sentence "Hello World!", the console is where it will show up.
 
-    ![](resources/eclipse.jpg)
+    ![](https://github.com/yashmulki/APHSProgrammingClub/blob/master/notes/resources/eclipse.JPG?raw=true)
 
 - The Run Button: This small green button on the top of the screen is what we use to run our java programs. You can also right click on any java program in the navigator and select "run as java program" to run it.
 
-    ![](resources/runButton.jpg)
+    ![](https://github.com/yashmulki/APHSProgrammingClub/blob/master/notes/resources/runButton.JPG?raw=true)
 
 ## Let's get started!
 
