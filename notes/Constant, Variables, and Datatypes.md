@@ -4,7 +4,6 @@
 
 Java allows one to store data in a few ways these are known as data types.
 As we begin to write code it is crucial that we can recognize and differentiate between constants and variables.
-## Data types + Strings
 ---
 ## Variables
 A variable is a value which we are able to change. We can can have a variable for every datatype
@@ -17,6 +16,7 @@ i = 5;
 //or, put it together
 int i = 5;
 ````
+## Data types + Strings
 ##### Primitive Data Types
 Java has eight primitive data types
 These are:
