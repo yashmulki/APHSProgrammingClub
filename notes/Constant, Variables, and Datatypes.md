@@ -1,4 +1,4 @@
-# Constatnts, Variables, and Datatypes
+# Constants, Variables, and Datatypes
 ---
 #### Made by Yash Trivedi
 
